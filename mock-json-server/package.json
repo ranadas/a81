@@ -1,0 +1,19 @@
+{
+  "name": "mock-json-server",
+  "version": "1.0.0",
+  "description": "sample json server to mock rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mock",
+    "json",
+    "server"
+  ],
+  "author": "Rana Das",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
+}
